@@ -1,0 +1,20 @@
+{
+    "zscore_anomalies": [],
+    "iqr_anomalies": [
+        {
+            "date": "2018-11-01",
+            "sales": 117393.775
+        }
+    ],
+    "residual_anomalies": [
+        {
+            "date": "2015-09-01",
+            "sales": 81623.5268
+        },
+        {
+            "date": "2016-01-01",
+            "sales": 18066.9576
+        }
+    ],
+    "total_unique": 3
+}
